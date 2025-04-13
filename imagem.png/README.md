@@ -31,6 +31,5 @@ O modelo foi refinado para atender os seguintes requisitos:
 
 O diagrama está disponível no formato `.drawio` neste repositório com o nome:  
 **modelo_conceitual_modelagem_dados_ecommerce.drawio**
-
 ---
 
